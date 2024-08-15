@@ -1,9 +1,10 @@
 #  Mercedes-Benz Car Price Prediction
 
+![Unknown](https://github.com/user-attachments/assets/b06b6d3b-d1ca-4c99-84fa-9f5631e51a4a)
 
 Welcome to the Mercedes-Benz Car Price Prediction project! This repository showcases my journey through data science, where I analyze and predict the prices of used Mercedes-Benz cars using advanced machine learning techniques. The project demonstrates the power of data to unlock valuable insights in the automotive industry.
 
-## 📊 Project Overview
+## Project Overview
 This project aims to predict the prices of pre-owned Mercedes-Benz vehicles based on various features such as manufacturing year, mileage, engine size, and more. By leveraging the power of data science, we can gain a deeper understanding of the factors that influence car prices and make informed predictions.
 
 
